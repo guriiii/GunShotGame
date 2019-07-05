@@ -12,7 +12,7 @@ namespace GunShotGame
 
         private void button1_Click(object sender, EventArgs e)
         {
-            (new Form2russian()).Show();
+            (new Formrussian()).Show();
             this.Hide();
         }
 
